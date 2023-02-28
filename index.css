@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    width: 100%;
+    height: 100%;
+}
+.logoIMG{
+    margin: 20px;
+}
+.list{
+    border-bottom: 1px solid #FFFFFF;
+    margin-top: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list_a{
+    text-decoration: none;
+    margin-right: 12px;
+    font-size: 12px;
+    font-weight: 900;
+    font-style: normal;
+    color: #fff;
+    /* transition: 0.3s all ease; */
+}
+nav{
+    height: 100vh;
+    background: url(img/overview-1920.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.glavniy{
+    margin-top: 10px;
+    list-style: none;
+    display: flex;
+}
+.glavniy_a{
+    text-decoration: none;
+    /* margin-right: 12px; */
+    font-size: 12px;
+    font-style: normal;
+    color: #fff;
+    font-weight: 400;
+    /* transition: 0.3s all ease; */
+    margin-left: 15px;
+}
+.glavniyS{
+    color: rgb(176, 164, 164);
+}
+.glavniy_a:hover{
+    color: coral;
+}
+.zero{
+    margin-left: 5px;
+    color: white;
+}
+/* ==================================== */
+.newCard{
+    margin-top: 150px;
+}
+.new{
+    /* margin-top: auto; */
+    /* margin-bottom: 12px; */
+    font-family: "LADA-Pragmatica-Bold";
+    font-size: 15px;
+    font-weight: 9  00;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #fff;
+}
+.mesto{
+    font-size: 50px;
+    font-weight: 400;
+    color: #FFFFFF;
+    /* text-transform: uppercase; */
+}
+.summa{
+    /* line-height: 27px; */
+    /* margin-right: 20px; */
+    font-size: 24px;
+    font-weight: 900;
+    font-family: "LADA-Pragmatica-Bold";
+    color: #e37639;
+}
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+
+/* ==================================== */
+/* ==================================== */
+/* ==================================== */
+/* ==================================== */
+/* ==================================== */
+/* ==================================== */
+/* ==================================== */
+/* ================Responsive==================== */
+@media (max-width: 575px) {
+    .sabzi{
+        margin-top: 20px;
+        color: #e37639;
+        font-size: 30px;
+    }
+    .vas{
+        background-color: #FFFFFF;
+    }
+    .glavniy_a{
+        margin-top: 10px;
+        margin-left: 0;
+    }
+    .glavniy_item{
+        list-style: none;
+    }
+    .resGlavniy{
+        margin-top: 50px;
+    }
+    .glavniyS{
+        list-style: none;
+    }
+    .new{
+        font-size: 16px;
+        /* margin-left: 20px; */
+    }
+    .mesto{
+        font-size: 39px;
+        /* margin-left: 20px; */
+    }
+    .newCard{
+        margin-left: 20px;
+    }
+}
