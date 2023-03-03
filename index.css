@@ -527,6 +527,11 @@ color: #e37639;
     font-size: 18px;
     font-weight: 600;
 }
+/* ==================Javascript======================= */
+.menuRight{
+    display: none;
+    /* display: block ; */
+}
 /* ================Responsive==================== */
 @media (max-width: 575px) {
 .sabzi{
