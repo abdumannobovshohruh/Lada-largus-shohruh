@@ -582,7 +582,6 @@ margin-left: 20px;
     margin-left: 5px;
 }
 .oyna-3 {
-    margin-top: 60px;
     margin-left: 10px;
 }
 .koleso-2 {
@@ -604,5 +603,10 @@ margin-left: 20px;
     font-size: 14px;
     color: #4c5865;
     font-weight: 700;
+}
+.kuzovCard-2-2 {
+    margin-left: 10px;
+    /* margin-top: 100px; */
+    border-left: 1px solid #908686;
 }
 }
