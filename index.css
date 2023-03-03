@@ -200,6 +200,14 @@ padding-top: 30px;
     background-color: #262626;
     padding: 22px;
 }
+.patron2{
+    margin-right: 450px;
+    border: 1px solid white;
+    /* font-size: 20px; */
+    border-radius: 50%;
+    background-color: #262626;
+    padding: 22px;
+}
 /* ===========Section-2========================= */
 .section-2{
 background: url(img/constructor.jpeg);
@@ -529,9 +537,36 @@ color: #e37639;
 }
 /* ==================Javascript======================= */
 .menuRight{
+    /* transition: 3s; */
     display: none;
     /* display: block ; */
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+.see_item{
+    /* list-style: none; */
+    /* transition:2s ; */
+    color: black;
+}
+.see_a{
+    font-size: 15px;
+    text-decoration: none;
+    color: #918888;
+}
+.see_a:hover{
+    color: crimson;
+}
+/* ============= menu 2 ============ */
+.qulupnay{
+    /* margin-top: 20px; */
+    margin-left: 30px;
+    display: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+color: #e37639;
+font-size: 30px;
+}
+
 /* ================Responsive==================== */
 @media (max-width: 575px) {
 .sabzi{
