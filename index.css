@@ -609,4 +609,9 @@ margin-left: 20px;
     /* margin-top: 100px; */
     border-left: 1px solid #908686;
 }
+.numberF {
+    font-size: 17px;
+    color: #4c5865;
+    font-weight: 500;
+}
 }
