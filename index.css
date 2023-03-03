@@ -193,6 +193,13 @@ margin-bottom: 100px;
 .butCard{
 padding-top: 30px;
 }
+.patron{
+    border: 1px solid white;
+    /* font-size: 20px; */
+    border-radius: 50%;
+    background-color: #262626;
+    padding: 22px;
+}
 /* ===========Section-2========================= */
 .section-2{
 background: url(img/constructor.jpeg);
@@ -276,117 +283,250 @@ font-weight: 700;
 }
 /* ===============Section-3===================== */
 .svet{
-    margin-top: 70px;
-    font-size: 50px;
-    font-weight: 300;
-    color: rgb(101, 101, 129);
+margin-top: 70px;
+font-size: 50px;
+font-weight: 300;
+color: rgb(101, 101, 129);
 }
 .audiP{
-    width: 100%;
+width: 100%;
 }
 .karakum{
-    margin: auto;
-    background-color:#74766a;
-    width: 90px;
-    height: 90px;
-    border-radius: 50%;
+margin: auto;
+background-color:#74766a;
+width: 90px;
+height: 90px;
+border-radius: 50%;
 }
 .metal{
-    margin-top: 50px;
-    margin-bottom: 100px;
-    text-align: center;
-    font-size: 17px;
-    font-weight: 800;
-    color: #4c5865;
+margin-top: 50px;
+margin-bottom: 100px;
+text-align: center;
+font-size: 17px;
+font-weight: 800;
+color: #4c5865;
 }
 /* ===============Section-4===================== */
 .motor{
-    padding-top: 100px;
-    padding-bottom: 100px;
-    width: 80%;
-    height: 80%;
+padding-top: 100px;
+padding-bottom: 100px;
+width: 80%;
+height: 80%;
 }
 .section-4{
-    background-color: #343333;
+background-color: #343333;
 }
 .dvigatel{
-    padding-top: 100px;
-    color: #FFFFFF;
-    font-size: 40px;
-    font-weight: 300;
+padding-top: 100px;
+color: #FFFFFF;
+font-size: 40px;
+font-weight: 300;
 }
 .dvigatelCard{
-    background-color: #262626;
+background-color: #262626;
 }
 .dvigartelCard-2{
-    padding-left: 70px;
+padding-left: 70px;
 }
 .sovremeno{
-    color: #FFFFFF;
-    font-size: 18px;
-    width: 90%;
-    font-weight: 400;
-    margin-top: 50px;
+color: #FFFFFF;
+font-size: 18px;
+width: 90%;
+font-weight: 400;
+margin-top: 50px;
 }
 .onelitrCard{
-    margin-top: 100px;
-    border-bottom: 1px solid #918888;
-    width: 90%;
+margin-top: 100px;
+border-bottom: 1px solid #918888;
+width: 90%;
 }
 .litr{
-    font-size: 40px;
-    color: #FFFFFF;
+font-size: 40px;
+color: #FFFFFF;
 }
 .rabota{
-    color:#a6adb5 ;
-    font-weight:400;
-    font-size: 18px;
+color:#a6adb5 ;
+font-weight:400;
+font-size: 18px;
 }
 .rabotanum{
-    color: #FFFFFF;
-    font-size: 16px;
-    font-weight: 700;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: 700;
 }
 .rabotaCard{
-    margin-top: 50px;
-    padding-bottom: 20px;
+margin-top: 50px;
+padding-bottom: 20px;
 }
 /* .rabotaCard-2{
-    margin-top: 50px;
-    padding-bottom: 20px;
-    margin-left: 150px;
+margin-top: 50px;
+padding-bottom: 20px;
+margin-left: 150px;
 } */
 .bigRabotaCard{
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
+display: flex;
+justify-content: space-between;
+width: 80%;
 }
 /* ===============Section-5===================== */
 .kilo{
-    width: 100%;
-    height: 100%;
+width: 100%;
+height: 100%;
 }
 /* ===============Section-6===================== */
 .kuzovCard{
-    margin-top: 100px;
-}
-.kuzovCard-2-2{
 margin-top: 100px;
 }
+.kuzovCard-2-2{
+margin-left: 50px;
+margin-top: 100px;
+border-left: 1px solid #908686;
+}
+.oyna-2{
+border-bottom: 1px dashed  #908686;
+padding-top: 20px;
+padding-bottom: 50px;
+}
 .kuzov{
-        /* font-family: "LADA-Pragmatica-Bold"; */
-        font-size: 20px;
-        color: #4c5865;
-        font-weight: 700;
+margin-top: 45px;
+/* font-family: "LADA-Pragmatica-Bold"; */
+font-size: 20px;
+color: #4c5865;
+font-weight: 700;
 }
 .koleso{
-    font-size: 16px;
-    color: #66727d;
-    font-weight: 400;
+font-size: 16px;
+color: #66727d;
+font-weight: 400;
+}
+.koleso-2{
+/* line-height: 25px; */
+/* margin-bottom: 50px; */
+width: 90%;
+font-size: 16px;
+color: #66727d;
+font-weight: 400;
+}
+.oyna-3{
+margin-top: 60px;
+margin-left: 60px;
+}
+.kuzov-2{
+/* font-family: "LADA-Pragmatica-Bold"; */
+font-size: 20px;
+color: #4c5865;
+font-weight: 700;
+margin-left: 50px;
+
+}
+.oyna{
+border-bottom: 1px dotted  #908686;
+}
+.toplivaCard{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.topliva{
+font-size: 12px;
+color: #a6adb5;
+font-weight: 400;
+}
+.skachat_a-2{
+display: flex;
+margin-bottom: 70px;
+text-decoration: none;
+}
+.skachat-2{
+margin-top: 5px;
+margin-left: 10px;
+font-size: 13px;
+color: #FFFFFF;
+font-weight: 900;
+text-transform: uppercase;
+font-family: "LADA-Pragmatica-Bold";
+color: #e37639;
+
 }
 /* ==============Footer====================== */
-
-
+footer{
+background-color: #f7f8f8 ;
+}
+.modelF{
+margin-top: 70px;
+margin-bottom: 20px;
+color: #4c5053;
+font-size: 17px;
+font-weight: 700;
+}
+.li_item{
+list-style: none;
+}
+.li_a{
+text-decoration: none;
+line-height: 21px;
+font-size: 15px;
+/* font-family: "LADA-Pragmatica-Bold"; */
+/* text-transform: uppercase; */
+color: #66727d;
+margin-bottom: 50px;
+}
+.li_a:hover{
+    color: #e37639;
+}
+.foterCard{
+    margin-top: 110px;
+}
+.numberF{
+    font-size: 36px;
+    color: #4c5865;
+    font-weight: 500;
+}
+.klient{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 30%;
+ 
+}
+.klient_a{
+    color: #848e98;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.klient_a:hover{
+color: #e37639;
+}
+.iconCard{
+    display: flex;
+}
+.icon_a{
+    width: 10%;
+    color: #343333;
+    font-size: 22px;
+}
+.icon_a:hover{
+    color: #e37639;
+}
+.info{
+    font-size: 13px;
+    color: #a6adb5;
+}
+.max{
+    font-size: 12px;
+    color: #a6adb5;
+}
+.max_a{
+    /* text-decoration: none; */
+    color: #e37639;
+}
+.max_a:hover{
+    color: #262626;
+}
+.vopros{
+    color: #4c5053;
+    font-size: 18px;
+    font-weight: 600;
+}
 /* ================Responsive==================== */
 @media (max-width: 575px) {
 .sabzi{
