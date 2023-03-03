@@ -561,5 +561,41 @@ font-size: 39px;
 .newCard{
 margin-left: 20px;
 }
-
+.vibor {
+    padding-top: 80px;
+    color: #FFFFFF;
+    font-weight: 200;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.svet {
+    margin-top: 70px;
+    font-size: 39px;
+    font-weight: 300;
+    color: rgb(101, 101, 129);
+}
+.kuzov-2 {
+    /* font-family: "LADA-Pragmatica-Bold"; */
+    font-size: 11px;
+    color: #4c5865;
+    font-weight: 700;
+    margin-left: 5px;
+}
+.oyna-3 {
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.koleso-2 {
+    /* line-height: 25px; */
+    /* margin-bottom: 50px; */
+    width: 90%;
+    font-size: 15px;
+    color: #66727d;
+    font-weight: 400;
+}
+.koleso {
+    font-size: 11px;
+    color: #66727d;
+    font-weight: 400;
+}
 }
