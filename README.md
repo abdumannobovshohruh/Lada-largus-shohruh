@@ -1,1 +1,1 @@
-# Lada-largus-shohruh
+# Lada-largus-shohru
